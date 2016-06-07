@@ -1,5 +1,4 @@
 ## Martian: A Self Organized Social Network Based On Emails
-### Thunderbird-Addon
 
 Imagine we want to send our bank account numbers and their passwords to our relatives. What application can we use? Can we guarantee that the service provider will not **monitor or leak our information**?
 
